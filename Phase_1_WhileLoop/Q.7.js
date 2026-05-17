@@ -14,3 +14,18 @@ while(n <= 100){
 }
 
 console.log(z)
+
+
+// 8. Calculate the sum of all odd numbers from 1 up to n.
+
+let a = 1 ;
+let b = 0
+
+while(a <= 100){
+    if(a % 2 !== 0 ){
+       b += a 
+    }
+    a++;
+}
+
+console.log(b)
