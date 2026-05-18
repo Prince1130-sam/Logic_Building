@@ -28,4 +28,5 @@ while(a <= 100){
     a++;
 }
 
+
 console.log(b)
