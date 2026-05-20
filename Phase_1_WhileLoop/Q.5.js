@@ -7,4 +7,6 @@ while(x <= 10){
     let z = n * x;
     console.log(n ,"x", x ,"=", z)
     x++;
+
+    
 }
